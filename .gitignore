@@ -1,0 +1,12 @@
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore build artifacts
+target/
+dist/
+__pycache__/
+
+# Ignore dependency folders
+node_modules/
+venv/
